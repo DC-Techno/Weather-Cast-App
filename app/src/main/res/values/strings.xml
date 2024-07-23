@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Weather Cast</string>
+    <string name="wcImageView">WeatherCast</string>
+    <string name="cityName">Search City....</string>
+    <string name="splashText">Welcome to Weather Cast App</string>
+    <string name="castName">WEATHER CAST</string>
+    <string name="cntnView">WeatherCast</string>
+    <string name="contentView">WeatherCast</string>
+
+
+</resources>
